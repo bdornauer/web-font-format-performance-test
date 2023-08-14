@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'myOpenSans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/MontserratSemibold/Montserrat-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'myRaleway';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/RalewayExtrabold/Raleway-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'myRoboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/SourceSansPro/SourceSans-Regular.ttf') format('truetype');
+}
+  
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1{ 
+    font-family: "myRaleway";
+}
+h2{
+    font-family: "myOpenSans";
+}
+p{
+    font-family: "myRoboto";
+}

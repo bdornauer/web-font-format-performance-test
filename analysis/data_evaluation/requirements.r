@@ -1,0 +1,8 @@
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("moments")
+install.packages("tidyr")
+install.packages("gridExtra")
+install.packages("ggtext")
+install.packages("DescTools")
+install.packages("scales")
